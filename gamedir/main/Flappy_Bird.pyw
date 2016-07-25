@@ -4,7 +4,6 @@ from random import randint
 from tkinter import *
 import time
 
-
 #various color codes utilized
 black = (0,0,0)
 white = (255,255,255)
@@ -67,7 +66,7 @@ ground = 1050
 xcloc = 1400
 ycloc = 0
 xsize = 70
-ysize = randint(0, 350)
+ysize = randint(0, 900)
 space = 150
 obspeed = 2.5
 score = 0
@@ -199,4 +198,3 @@ while not done:
 
 #exit
 pygame.quit()
-
