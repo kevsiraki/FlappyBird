@@ -8,6 +8,7 @@ versions = 0.1 - begginning
 	   0.6 - added clouds
 	   0.7 - restart abilities using .bat files
 	   0.8 - added more detail to bird
+	   0.9 - added an option to save the users last score in a .txt file.
 
 description = a pretty awesome re-creation of Flappy Bird using Python.  
 I work diligently to add new features and fix issues with the program.
