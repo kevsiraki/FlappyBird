@@ -7,4 +7,4 @@ if %answer%==n taskkill /IM pythonw.exe /F
 set /p answer3=Enter Score (y/n)?:
 if %answer3%==y start "" "C:\Users\kevsi\Desktop\gamedir\main\Last Score.py"
 if %answe3r%==n taskkill /IM pythonw.exe /F
-
+exit
